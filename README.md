@@ -1,7 +1,5 @@
 # Karto-Note
-Karto Slam源码注释
-
-代码注释整理一下稍后更新~
+Karto Slam源码详细注释
 
 Karto是一种2D激光SLAM解决方案，它是基于稀疏图优化的方法，带闭环检测。
 
