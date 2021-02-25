@@ -102,3 +102,5 @@ typedef enum
 相关函数包括：CreateFromScans、AddScan、RayTrace、UpdateCell。
 
 如有错误请您批评指正，希望内容对您有帮助，更多细节可以查看代码注释~
+
+:) 如果对您有帮助，欢迎star~
